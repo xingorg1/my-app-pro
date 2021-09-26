@@ -76,7 +76,7 @@ Language : [🇺🇸](./README.md) | 🇨🇳 | [🇷🇺](./README.ru-RU.md) | 
 ```bash
 $ mkdir <your-project-name>
 $ cd <your-project-name>
-$ yarn create umi  # or npm create umi
+$ yarn create umi  # or npm create umi # or yarn create umi myapp
 
 # Choose ant-design-pro:
  Select the boilerplate type (Use arrow keys)
